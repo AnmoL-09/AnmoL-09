@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [{to be added}]({to be added})
+- 👨‍💻 All of my projects are available at ..
 
 - 📫 How to reach me **anmolmahobiya092@gmail.com**
 
