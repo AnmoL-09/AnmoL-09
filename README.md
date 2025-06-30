@@ -1,3 +1,5 @@
+![Banner](https://i.ibb.co/5xfX4z5C/readmegithhub.png)
+
 # 🧑‍💻 About Me:
 I'm Anmol, I focus on crafting scalable, performant, and user-centric web applications. My current stack revolves around Next.js, Node.js, PostgreSQL, Tailwind CSS, and RESTful APIs, and I actively apply best practices in version control and clean code architecture.<br><br>Whether it's building robust backends, clean frontends, or connecting the dots through seamless APIs, I love bringing ideas to life through code. I'm continuously learning and iterating to become a better engineer—one project at a time.
 
