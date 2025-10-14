@@ -11,7 +11,8 @@ I'm Anmol, I focus on crafting scalable, performant, and user-centric web applic
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmoL-09&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![Banner](https://drive.google.com/uc?export=view&id=1UrE9OMIw40xQrpAojAB9cJTN3wh_RoWO)
+![Banner](https://drive.google.com/uc?export=view&id=1Xje_z_L2fiQMpphqlwmHoFcmLMES3RkK)
+
 
 
 
