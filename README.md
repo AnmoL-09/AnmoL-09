@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/6O45qCT.jpeg)
+![Banner](https://drive.google.com/uc?export=view&id=1LzOOKSw2Ur-HdykPc7BfxbnzTPzlf-i9)
 
 <h1 align="center">Glad, you're here! 🚀</h1>
 
