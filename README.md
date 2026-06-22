@@ -15,9 +15,6 @@
   <a href="mailto:anmolmahobiya092@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/anmldev">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
 </p>
 
 
